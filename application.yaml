@@ -13,6 +13,5 @@ okta:
     audience: api://default
 spring:
   zipkin:
-    enabled: true
     baseUrl: http://localhost:9411/zipkin
     
